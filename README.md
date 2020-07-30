@@ -1,4 +1,6 @@
 
+You can play on https://atilay.github.io/javascript-pingpong/
+
 ### Rules ###
 * 2 sides will play the game
 * Every side will have a vertical saver (stick or whatever :) width of 12px height 85px
